@@ -8,6 +8,8 @@ Link the Tableau dashboards: https://public.tableau.com/app/profile/jauffray.bru
 
 Please check the "Analysis of Customer Churn in Telco Company.pdf" for a nicely presented report of the project.
 
+Please check the "Churn Notebook.ipynb" for a preview of the Python work I made using Pandas on Jupyter Notebook.
+
 
 
 Table of Contents:
