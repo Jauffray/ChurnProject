@@ -47,7 +47,7 @@ Churn: Whether the customer churned (Yes, No).
 
 Usage:
 Open the Jupyter notebooks and Tableau dashboards to explore the data preprocessing, EDA, and visualization steps.
-The Tableau workbook (ChurnProject.twb) can be opened with Tableau to view and interact with the visualizations.
+The Tableau workbook (ChurnProject.twbx) can be opened with Tableau to view and interact with the visualizations.
 
 Analysis:
 The analysis is divided into three main parts:
